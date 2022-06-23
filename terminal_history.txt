@@ -1,0 +1,137 @@
+889  pwd
+  890  cd ..
+  891  ls
+  892  cd week 2 updated
+  893  cd Week\ 2\ UPDATED
+  894  cd ..
+  895  cd..
+  896  cd..
+  897  cd ..
+  898  cd ..
+  899  cd ..
+  900  cd ..
+  901  cd ..
+  902  pwd
+  903  ls 
+  904  git clone git@github.com:JakeWheelerGitHub/Week-2-Challenge-.git
+  905  cd users
+  906  git clone git@github.com:JakeWheelerGitHub/Week-2-Challenge-.git
+  907  cd jakewheeler
+  908  git clone git@github.com:JakeWheelerGitHub/Week-2-Challenge-.git
+  909  cd Week 2 Challenge
+  910  clear
+  911  ls 
+  912  cd fintech
+  913  cd Challenges
+  914  cd GIT_Week-2-Challenge-
+  915  ls
+  916  cd Starter_Code
+  917  ls
+  918  clear
+  919  pwd
+  920  ls
+  921  ls
+  922  cd ..
+  923  cd Starter_Code
+  924  ls
+  925  clear
+  926  git init 
+  927  git config --global init.defaultBranch main
+  928  git add . 
+  929  pwd
+  930  ccd ..
+  931  cd ..
+  932  cd '/Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-'
+  933  pwd
+  934  git init
+  935  git add .
+  936  git commit -m "Reorganized file structure" 
+  937  git push 
+  938  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  939  /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/data/daily_rate_sheet.
+  940  clear
+  941  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  942  git init
+  943  git add .
+  944  git commit -m "Added function that saves qualifying loans to csv file"
+  945  git push
+  946  clear
+  947  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  948  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  949  clear
+  950  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  951  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  952  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  953  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  954  git init
+  955  git add .
+  956  git commit -m "Added function that saves qualifying loans to csv file"
+  957  git push
+  958  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  959  clear
+  960  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  961  clear
+  962  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  963  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  964  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  965  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  966  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  967  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  968  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  969  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  970  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  971  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  972  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  973  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  974  clear
+  975  git init
+  976  git add .
+  977  git commit -m "Added CLI to ask if user would like to save loans to CSV file"
+  978  git push
+  979  clear
+  980  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  981  clear
+  982  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  983  clear
+  984  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  985  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  986  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  987  clear
+  988  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  989  clear
+  990  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  991  git init
+  992  git add .
+  993  git commit -m "Added CLI to ask user where to save loans CSV file"
+  994  git push
+  995  clear
+  996  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  997  clear
+  998  git init
+  999  git add .
+ 1000  git commit -m "Testing image in ReadMe"
+ 1001  git push
+ 1002  clear
+ 1003  git init
+ 1004  git add .
+ 1005  git commit -m "Updated ReadMe"
+ 1006  git push
+ 1007  git init
+ 1008  git add .
+ 1009  git commit -m "Updated readme formatting"
+ 1010  git push
+ 1011  git commit -m "Updated readme formattting"
+ 1012  git init
+ 1013  git add .
+ 1014  git commit -m " updated readme formatting"
+ 1015  git push
+ 1016  git init
+ 1017  git add .
+ 1018  git commit -m "Spelling and final readme updates"
+ 1019  git push
+ 1020  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+ 1021  clear
+ 1022  git init
+ 1023  git add . 
+ 1024  git commit -m "Added more comments to the application" 
+ 1025  git push
