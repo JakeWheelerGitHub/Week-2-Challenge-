@@ -109,11 +109,14 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
-    # YOUR CODE HERE!
+    answer = questionary.confirm("Would you like to save the loans that you qualify for to a CSV file?").ask()
+    if answer == True:
+        save_csv(qualifying_loans)
+    
 
 def save_csv(qualifying_loans):
     import csv
-    csvoutput = Path("my_output.csv")
+    csvoutput = Path("Qualifying_loans.csv")
     with open(csvoutput, 'w', newline='') as csvfile:
         csvwriter = csv.writer(csvfile)
 
@@ -139,8 +142,10 @@ def run():
     )
     # 
     # Save qualifying loans
-    save_csv(qualifying_loans)
+    #)
+    save_qualifying_loans(qualifying_loans)
 
+    
 
 if __name__ == "__main__":
     fire.Fire(run)
