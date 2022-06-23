@@ -13,41 +13,41 @@ This application is written in the python language. It uses the "sys", "csv", an
 ## Instillation
 Before running the application install the following:
 
-'''python
+```python
 pip install fire
 pip install questionary
-'''
+```
 ---
 ## Usage
 
 When run, the application will first ask the user to enter a file path to a .csv file containing the rate-sheet by asking:
-'''Enter a file path to a rate-sheet (.csv)'''
+```Enter a file path to a rate-sheet (.csv```
 
 It will then ask users:
-'''
+```
 What's your credit score?
 What's your current amount of monthly debt?
 What's your total monthly income?
 What's your desired loan aount?
 What's your home loan value?
-'''
+```
 
 The app will then display:
-'''
+```
 The monthly debt to income ratio is ...
 The loan to value ratio is ...
 Found ... qualifying loans
-'''
+```
 
 If the user qualifies for any loans the app with then ask:
-'''
+```
 Would you like to ave the loans that you qualify for to a CSV file? (Y/N)
-'''
+```
 
 If prompted "Y" the application will then ask :
-'''
+```
 Enter a file path to save the qualifying loans (.csv):
-'''
+```
 
 ---
 
