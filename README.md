@@ -1,13 +1,13 @@
 # Loan Qualifier App / Week 2 Challenge
 
-This is a loan qualifier application. It asks for credit score and loan Size, and calculates debt-to-income ratio and loan-to-value ratio. Using these values the application matches the user with the loans that they qualify for and optionally saves them to a .csv file. This allows users to quickly and easily determine which loans they qualify for. 
+This is a command line interface loan qualifier application. It asks for user's credit score and loan size, and calculates debt-to-income ratio and loan-to-value ratio. Using these values the application matches the user with the loans that they qualify for and optionally saves them to a .csv file. This allows users to quickly and easily determine which loans they qualify for. 
     
 
 ---
 
 ## Technologies
 
-This application is written in the python language. It uses the "sys", "csv", and "pathlib" modules along with the "fire" and "questionary" libraries. It has been developed and tested on MacOS
+This application is written in the python 3.7 language. It uses the "sys", "csv", and "pathlib" modules along with the "fire" and "questionary" libraries. It has been developed and tested on MacOS
 
 ---
 ## Instillation
@@ -21,7 +21,9 @@ pip install questionary
 ## Usage
 
 When run, the application will first ask the user to enter a file path to a .csv file containing the rate-sheet by asking:
-```Enter a file path to a rate-sheet (.csv```
+```
+Enter a file path to a rate-sheet (.csv)
+```
 
 It will then ask users:
 ```
